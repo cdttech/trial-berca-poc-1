@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><TalendHadoopCluster:HadoopClusterConnection xmlns:TalendHadoopCluster="http://www.talend.org/hadoopcluster" xmlns:xmi="http://www.omg.org/XMI" authMode="USERNAME" clouderaNaviClientUrl="http://localhost" clouderaNaviMetadataUrl="http://localhost:7187/api/v8/metadata/plugin" clouderaNaviUrl="http://localhost:7187/api/v8/" clouderaNaviUserName="username" dfVersion="MAPR600" distribution="MAPR" group="mapr" jobHistory="0.0.0.0:10020" jobHistoryPrincipal="mapr/maprdemo@EXAMPLE.COM" jobTrackerURI="localhost:8032" jtOrRmPrincipal="mapr/maprdemo@EXAMPLE.COM" label="conmapr" maprTCluster="demo.mapr.com" maprTDuration="86400L" maprTHadoopLogin="kerberos" maprTHomeDir="/opt/mapr" name="conmapr" nameNodeURI="poc.cimb" preloadAuthentification="true" principal="mapr/maprdemo@EXAMPLE.COM" rmScheduler="localhost:8030" stagingDirectory="/user" useDNHost="true" useSparkProperties="true" useYarn="true" userName="mapr" xmi:id="_hThooHj0EeiEhNQEvnKJSw" xmi:version="2.0"><Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_4ce1f146-5d13-4020-9e0f-9b297a0fcd29"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>WTthuslduQODqI7TraAC54T6mGrNqPXxbvJRPeoikpJtkLETpy4XHwNbR6Z2q0gz4xAKcfyq0OSZ
+ANPgbTsaqA==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_97aa4cca-f5cc-4b7e-91c2-1336d6452690"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>v8XflF33cG6RV4nDk5cczKD971TEqY0L67YcH/d5/zfee+Q8gtS5otZLudjw72Et5X2RE4AZmJ0R
+51ylrOkikQ==</DigestValue></Reference></SignedInfo><SignatureValue>NenuzHSM86gXhttRbdwXqH69OxB5g7dlz9B5G7LP9YudrLRhy95psuu0rolBnIXVXfhIR/MMSZKT
+9y6pmZt9Ib99Y054kCCastBlga5Lo5A9Ar9LiK5LCHTAfSL2FZltqbTAXP+2B2ztPpTxLOTmDSkZ
+jwmkD48bNyO7UEp93BqunvmAv+y3mEIhJVrKus6S72I8o/2EWAZR+vt6IbEsf4cTdLRjuZJChOPj
+sPdeonlD57CD9ky+k5ui/WOwoy0hLa62CYf1qkYwcp9dUy27FFiGIY0kY7E6GOZNp9wtZNvQ/VEQ
+HVor5C+M/LNsQwds+jS0DNSnK0xIM4jV0MtLaQ==</SignatureValue><KeyInfo><X509Data><X509SubjectName>CN=Default code-signing certificate,OU=R&amp;D,O=Talend Inc.,ST=Paris,C=FR</X509SubjectName><X509Certificate>MIIFYzCCA0ugAwIBAgIBATANBgkqhkiG9w0BAQsFADCBjTELMAkGA1UEBhMCRlIxDjAMBgNVBAgM
+BVBhcmlzMQ4wDAYDVQQHDAVQYXJpczEUMBIGA1UECgwLVGFsZW5kIEluYy4xDDAKBgNVBAsMA1Im
+RDEWMBQGA1UEAwwNVGFsZW5kIFImRCBDQTEiMCAGCSqGSIb3DQEJARYTc2VjdXJpdHlAdGFsZW5k
+LmNvbTAeFw0xODAxMTgwMDA2MTJaFw0yMTAxMTcwMDA2MTJaMGwxCzAJBgNVBAYTAkZSMQ4wDAYD
+VQQIDAVQYXJpczEUMBIGA1UECgwLVGFsZW5kIEluYy4xDDAKBgNVBAsMA1ImRDEpMCcGA1UEAwwg
+RGVmYXVsdCBjb2RlLXNpZ25pbmcgY2VydGlmaWNhdGUwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAw
+ggEKAoIBAQDiCz1II/o6hDUWu/ygxTCT2o/fYxVzPW23AoONQC/Vuiqh0COyLIgaMTjBPmQdTQFq
+rmM5tD64gi4TEQF+Z3iYt3daLdQUfaW9SzaMlY+XVNz5xnMBVDuiSHJSFE9lKnhgbKAHvOeoJo46
+UgWwb1za0WpRckDtjKcntwEK1orZCgrcIo1nDvFXyB5n0KfpLyktEOa0bSHde50MPbvQeB66XlEb
+lhjfs5S9WnAUja9RgqdwqZoI0ss+x/pjkQygDT8f17MktM21HOtg09lJlhMGJckhgD7jUF5tfYGM
+sv/O27g5CToFhxOnutDtsrDw7AkEQIml8KJp97bQLAFlLnh1AgMBAAGjge0wgeowHQYDVR0OBBYE
+FFzdy6ZfpUX8JwkM/SUrqkwLNqWAMB8GA1UdIwQYMBaAFOd9C3L8tYGZxoAr2SzsgnMytaj3MAsG
+A1UdDwQEAwIHgDATBgNVHSUEDDAKBggrBgEFBQcDAzAJBgNVHRMEAjAAMHsGCWCGSAGG+EIBDQRu
+FmxEZWZhdWx0IHRoaXJkIHBhcnR5IGNvZGUtc2lnbmluZyBjZXJ0aWZpY2F0ZS4gTm8gY29tbWl0
+bWVudCBpcyBtYWRlIG9uIHRoZSBjb250ZW50IHNpZ25lZCBieSB0aGUgdGhpcmQgcGFydHkwDQYJ
+KoZIhvcNAQELBQADggIBAKzYdnzoFgrRtDLSSzWtwuOrGo5+1RPoDHm/1dlbVnB7oZzUwfRGwZT5
+ser0V7OZyt9wWR8iQ2ka30fHWrNAosNtlIkF88s5YZw7OOIMxR+qYA99BnWLa79DZVIuukI2f5qJ
+Cr9nw6Oygo8CWeNMWhtXcvV4gqROhb2QMBrvWBw9QvNK1XMdtPShfWiXwyPzzRKgwqrN2meXtOY3
+S+MXu6u+RUD9EYeElp9M+9Yp+zRySl5/s+0sbvo7qz369dlsw8XhKXT+s4YQQe3Sx14Kg3SDFXKn
+QcVgycaZMOw4YUxOeP2hKOHnNuOMORfu3qlYkN/0RMGjn6r4PU4+yL276TiWI5b8J06y4leng2as
+r3/fbKJ02Ni9kCnkY8wQS1yn45UNl1woSjryza4f4uLKGkrrIsUPXK+Vy4A1Il8XgFfmrtgA8m9s
+EHyu0OyAJH/agWN+GLhF/ssp26oXhiYqTkG4sQtNRFQG0isaYf/JWSt3f8Q+7/pnZpz4mfEAFimI
+BBLzRwDA6x9qqOn0RXxBo9pH16EO3SXPLR64cJum8B/RI/i8H6OkQDO1tEiE6UeceZk++U7fnD3c
+6i9Km85GTgQi6REsVZGIL/tZNIzN//qPwi7cDo3Cf/xmPrIKQhHJaxCqmbjGDmC8AXOaqNfWotVX
+Wy2dcglW62PDszE/HKh9</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_97aa4cca-f5cc-4b7e-91c2-1336d6452690" Target="#_4ce1f146-5d13-4020-9e0f-9b297a0fcd29"><Timestamp>2018-06-26 03:53:44</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></TalendHadoopCluster:HadoopClusterConnection>
